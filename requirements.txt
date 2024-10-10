@@ -4,4 +4,3 @@ requests
 numpy
 pandas
 streamlit_folium
-folium.plugins
